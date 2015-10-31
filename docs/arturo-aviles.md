@@ -1,5 +1,6 @@
-### Issue 5: Add bio
+### Github Student
 
-This is a file which **refers** to the documentation of adding my bio. 
-
+**Name:** Arturo Avilés 
+**Occupation:** Student & Front-End Developer
+**Current City:** Mexico
 **Favorite color:** Green and Blue.
